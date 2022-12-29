@@ -1,0 +1,59 @@
+*{
+    color: white;
+}
+
+h1{
+    padding: 10px;
+    border: 2px solid red;
+    margin: 20px;
+}
+
+table{
+    /*border-width border-style border-color*/
+    border: 10px solid gray;
+    border-radius: 10px;
+    width: 80%;
+    /*top right bottom left
+    margin: 10px 40px 30px 70px;*/
+    /*top-bottom left-right*/
+    margin: 20px auto;
+    background-color: black;
+    
+}
+
+th{
+    padding: 10px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#anasayfa{
+    color: orange;
+}
+
+
+td{
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    line-height: 1.2;
+}
+
+.bilgi{
+    color: brown;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 1px;
+    text-decoration: underline overline;
+    text-transform: uppercase;
+    text-shadow: 1px 2px blue;
+}
+/*img{
+    border-radius: 50%;
+}*/
